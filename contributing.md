@@ -4,4 +4,4 @@ This is a contribution guide
 
 # Section 2
 
-Pull requests are great!
+Pull requests are great! I would like to make a new pull request to integrate these changes
